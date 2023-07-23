@@ -1,4 +1,4 @@
-package com.server2022;
+package com.leetcode;
 
 import java.util.LinkedList;
 import java.util.List;

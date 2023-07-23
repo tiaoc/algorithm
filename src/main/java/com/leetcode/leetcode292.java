@@ -1,4 +1,4 @@
-package com.server2022;
+package com.leetcode;
 
 public class leetcode292 {
     // 8 7 6 5 4 3 2 1 0

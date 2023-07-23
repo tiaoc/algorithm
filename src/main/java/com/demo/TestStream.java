@@ -1,7 +1,5 @@
 package com.demo;
 
-import org.apache.logging.log4j.util.PropertySource;
-
 import java.util.Arrays;
 import java.util.Comparator;
 

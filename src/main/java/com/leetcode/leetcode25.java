@@ -1,4 +1,4 @@
-package com.server2022;
+package com.leetcode;
 
 import com.base.ListNode;
 

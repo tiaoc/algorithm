@@ -1,6 +1,6 @@
 package com.server2022;
 
-public class leetccode6079 {
+public class leetcode6079 {
     public String discountPrices(String sentence, int discount) {
         String[] words = sentence.split(" ");
         for (int i = 0; i < words.length; i++) {
